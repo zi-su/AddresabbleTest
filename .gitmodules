@@ -1,0 +1,3 @@
+[submodule "Assets/ScriptLibrary"]
+	path = Assets/ScriptLibrary
+	url = https://github.com/zi-su/ScriptLibrary.git
