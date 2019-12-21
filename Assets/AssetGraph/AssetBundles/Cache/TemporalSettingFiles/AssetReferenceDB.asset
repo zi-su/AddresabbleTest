@@ -1433,4 +1433,296 @@ MonoBehaviour:
     m_importFrom: Assets/AddressableAssetsData/DefaultObject.asset
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: 0000000000000000b000000000000000
+    m_importFrom: ProjectSettings/EditorBuildSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 65ece36395e84f046a061a9bccad36a8
+    m_importFrom: Assets/Data
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fafc29ad0ab04f1468d6cc1d42f06c7e
+    m_importFrom: Assets/Data/GroupA
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2ddb48bd0062fba42a8e4f30f92ec449
+    m_importFrom: Assets/Data/GroupB
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e48dec281fdf42c4bbb90fdef030ec28
+    m_importFrom: Assets/Data/GroupA/prefabA.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c4345d733f9814e458b4df159656e2e4
+    m_importFrom: Assets/Data/GroupB/prefabB.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3b97b608ff2995641aa0fd76dcd9f73f
+    m_importFrom: Assets/Data/GroupC
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 455bfb362453d7247bcb293078168789
+    m_importFrom: Assets/Data/GroupC/prefabC.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 70379500f7d8ebf4e9611fa5c4ba575a
+    m_importFrom: Assets/ScriptLibrary/DataScroller/CellViewSimple.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 86623b80fe35fec48a3099a0e7551047
+    m_importFrom: Assets/ScriptLibrary/Singleton
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c427f3112b9faf84e8da482d61c11683
+    m_importFrom: Assets/ScriptLibrary/PadTouchEventSystem/ButtonBase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 06cde2316dc7a1f4d80dc3b3d541d925
+    m_importFrom: Assets/ScriptLibrary/Collision
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2c6fb761f2173f247b6efe497ab64d54
+    m_importFrom: Assets/ScriptLibrary/Manager/SceneManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a3bd5bf147486824abe73d0f401a04e0
+    m_importFrom: Assets/ScriptLibrary/Collision/TriggerEventBase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15edb3e2e3699514d96dafa2004a76c1
+    m_importFrom: Assets/ScriptLibrary/Input
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 90748523b4ae5e845981d85b9a8e85f3
+    m_importFrom: Assets/ScriptLibrary/PadTouchEventSystem/TabButtonController.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5e27c0a3efe48f9429758c35403a645c
+    m_importFrom: Assets/ScriptLibrary/Editor/CSVScriptable.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d2c25404cc71127429d57411104c709b
+    m_importFrom: Assets/ScriptLibrary/Input/InputType.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c158573439fea9d4c8e2424bdc216c9e
+    m_importFrom: Assets/ScriptLibrary/StateMachine/StateMachine.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2ec464441532aaa4a9c5473fca3935b3
+    m_importFrom: Assets/ScriptLibrary/DataScroller/CellDataBase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e2a70b0558b51cf4f9aac1db897b245a
+    m_importFrom: Assets/ScriptLibrary/Editor/FindReferencedAsset.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 97b0ee2561c2b3a4db7d5fa44d08db7f
+    m_importFrom: Assets/ScriptLibrary/StateMachine
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c2eeb445c7c9d3e45bac5e153a916e22
+    m_importFrom: Assets/ScriptLibrary/DataScroller/ScrollController.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3ac30085b5487cb40b3a094e44780e1b
+    m_importFrom: Assets/ScriptLibrary/UI
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d82ef95b1ded564eb022c7bf8363c8f
+    m_importFrom: Assets/ScriptLibrary/UI/Prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 82f7004659f9ec649b94d000d5db6aa1
+    m_importFrom: Assets/ScriptLibrary/DataScroller/ICellView.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0970ead6b93e32541aa82dd474ee3083
+    m_importFrom: Assets/ScriptLibrary/UI/ScreenSpaceParent.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 86223607f56a35f4fac987ed2957bf75
+    m_importFrom: Assets/ScriptLibrary/Input/InputManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 94109547d2290fe4494bb93b90a66de2
+    m_importFrom: Assets/ScriptLibrary/Load
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b4c86287e201da448942ac3531931190
+    m_importFrom: Assets/ScriptLibrary/Spring.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3dd04d284bf34bb419ac40043c4e1cfe
+    m_importFrom: Assets/ScriptLibrary/StateMachine/StateClass.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed914fa8f88cee845a267fc448a92838
+    m_importFrom: Assets/ScriptLibrary/Manager
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f1f36791f7624448a5542a4fa90a39f
+    m_importFrom: Assets/ScriptLibrary/DataScroller
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3a15b6f9bafdc56419357fc4c85d4fdb
+    m_importFrom: Assets/ScriptLibrary/Input/InputPad.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c1251c6a08554344e9541a5df559279d
+    m_importFrom: Assets/ScriptLibrary/UI/Dialog.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb535b7af0b09ba49b41d7b945724cfe
+    m_importFrom: Assets/ScriptLibrary/PadTouchEventSystem/SelectableButton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c168a29aa8b74a648a469c9adb8e3b2e
+    m_importFrom: Assets/ScriptLibrary/PadTouchEventSystem
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1218d9baaa9afd44e8017b920867c1a0
+    m_importFrom: Assets/ScriptLibrary/Debug.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d34f11b8f336674595a207274caa0ad
+    m_importFrom: Assets/ScriptLibrary/Collision/CollisionEventBase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d259cdba3b378243ae8be72ae70a607
+    m_importFrom: Assets/ScriptLibrary/Editor/CreateScriptableSource.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed1c0fdb3e1aa06499f19e1e881f787a
+    m_importFrom: Assets/ScriptLibrary/Singleton/SingletonMonobehaviour.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c273618c59a232b44b541f944d3338d6
+    m_importFrom: Assets/ScriptLibrary/ScriptableObject
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b7c100fc106da1c4d9af5e00ca4f8d9a
+    m_importFrom: Assets/ScriptLibrary/PadTouchEventSystem/CustomEventSystem.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 42bd0f5db581a54478a34756f8f4ef7c
+    m_importFrom: Assets/ScriptLibrary/ScriptableObject/ScriptableBase.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de74711eb7c46c244928b7d7a17d3e4f
+    m_importFrom: Assets/ScriptLibrary/Editor/CreateScriptableData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b4c7fa1e8617b9345903806be93b43b9
+    m_importFrom: Assets/ScriptLibrary/Editor
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a52b4f2e819a04e4296eea85e04e9f46
+    m_importFrom: Assets/ScriptLibrary/UI/Fade.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c0682b5e85047444ba2841bd8621f32c
+    m_importFrom: Assets/ScriptLibrary/DataScroller/ICellData.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c6eaf60f51c88c240a4fc2806ab022c4
+    m_importFrom: Assets/ScriptLibrary/Singleton/Singleton.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 44abe4dfad6dc204ebb3c09a4c5b9c10
+    m_importFrom: Assets/ScriptLibrary/UI/DialogYesNo.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2792aedf05bc3c44984000e0c976ff68
+    m_importFrom: Assets/ScriptLibrary/Load/LoadList.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1443a3609114dd54bb4880b5e51ef4fd
+    m_importFrom: Assets/ScriptLibrary/UI/Prefab/DialogModal.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7c1dd3612c5db0c4d8e58e6827e9ef3e
+    m_importFrom: Assets/ScriptLibrary/UI/Prefab/DialogModalYesNo.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e1dd8e13d626d841ba74b428207dc5f
+    m_importFrom: Assets/ScriptLibrary/LICENSE
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 438027a3a993cf144a69327a01961320
+    m_importFrom: Assets/ScriptLibrary/Input/DS4_InputManager.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c8715ae3e7d571744a4f5d1d14681389
+    m_importFrom: Assets/ScriptLibrary/UI/Prefab/Button.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c149188b32162ea4ea2d4583a8823b0c
+    m_importFrom: Assets/ScriptLibrary/DataScroller/Image.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fb60e7ec7056ec543834d3da04300dea
+    m_importFrom: Assets/ScriptLibrary/DataScroller/Image 1.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8a794d38889dd044c85638365fed1eb7
+    m_importFrom: Assets/ScriptLibrary/Editor/AASUtility.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 05afe72c40b76ca4798ca359f7b10eca
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/GroupB.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b7e7ce505105d96468d4cd69cc2abef4
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/b0e499d7bbf412b45b645bf8b226959c_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 882dbaa46a95ff04f8d20159ac993119
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/b0e499d7bbf412b45b645bf8b226959c_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93ac0041d3698164ea65d9a2f9c6af89
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/GroupA.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e066fe36f9147c499600960028846d0
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/bfbb0252996faed418c2701dc8a627ba_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a32e0ae6e12021842bdb6bed852df8dd
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/bfbb0252996faed418c2701dc8a627ba_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a1ad0f1ec384784e9fe3c6f67b3f002
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/GroupC.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 771f954944985484eac1e30bff9d3245
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/b794921180487714780564b31dc21f17_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1d6bfc7ea603e1a4dba1c48f504b0b6d
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/b794921180487714780564b31dc21f17_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 144ee05415a9f57419b8478f43e006de
+    m_importFrom: Assets/Data/GroupB/prefabB2.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 43dbbe344325aaf489d1bc45bbe44401
+    m_importFrom: Assets/TestCode.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9fc0d4010bbf28b4594072e72b8655ab
+    m_importFrom: Assets/Scenes/SampleScene.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b9d26c44c3c1d8d44ab9f126d04df06c
+    m_importFrom: Assets/AddressableAssetsData/Windows
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 589d3132f32ee7648a8de88b1fd8b3b5
+    m_importFrom: Assets/AddressableAssetsData/Windows/addressables_content_state.bin
+    m_exportTo: 
+    m_variantName: 
   m_version: 2
