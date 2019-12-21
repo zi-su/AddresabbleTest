@@ -18,7 +18,7 @@ MonoBehaviour:
   m_GUID: b0e499d7bbf412b45b645bf8b226959c
   m_SerializeEntries:
   - m_GUID: 455bfb362453d7247bcb293078168789
-    m_Address: prefabB
+    m_Address: prefabB3
     m_ReadOnly: 0
     m_SerializedLabels: []
     m_mainAssetType: UnityEngine.GameObject, UnityEngine.CoreModule, Version=0.0.0.0,
